@@ -1,4 +1,4 @@
-## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> I'm [Sachintha Nirmal](https://t.me/Sachinthanirmal) | ![Profile views](https://komarev.com/ghpvc/?username=Nirmalsachintha&style=flat&color=brightgreen)
+## Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25"> I'm [Sachintha Nirmal](https://t.me/Sachinthanirmal) | ![Profile views](https://komarev.com/ghpvc/?username=Nirmalsachintha&style=flat&color=brightgreen)
 
 - 💫 I’m Still A Student
 - 📫 [Connect with me](#-connect-with-me).
